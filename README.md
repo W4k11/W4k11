@@ -3,16 +3,6 @@ Flutter Developer | CTF Player | Mobile Technologies Student
 
 ---
 
-
-### 🔭 Şu Anda Ne Yapıyorum?
-
-- 📱 **Mobile Dev:** Flutter ile cross-platform uygulamalar geliştiriyor, Firebase ile ölçeklenebilir backend çözümleri kuruyorum.
-- 🛡️ **Cyber Security:** Siber güvenlikte kendimi geliştiriyor, aktif olarak CTF çözerek zafiyet analizi ve savunma teknikleri öğreniyorum.
-- 🎯 **Hedef:** "Security-by-design" prensibiyle çalışan, yüksek güvenlikli mobil mimariler inşa etmek.
-
-
----
-
 ### 🛠 Teknolojiler ve Araçlar
 
 - ![Python](https://skillicons.dev/icons?i=py) ![Flutter](https://skillicons.dev/icons?i=flutter) ![Dart](https://skillicons.dev/icons?i=dart) ![C#](https://skillicons.dev/icons?i=cs) ![.NET](https://skillicons.dev/icons?i=dotnet) ![Arduino](https://skillicons.dev/icons?i=arduino) ![C++](https://skillicons.dev/icons?i=cpp) [![My Skills](https://skillicons.dev/icons?i=linux,bash)](https://skillicons.dev)

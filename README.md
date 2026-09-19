@@ -1,8 +1,3 @@
-# Selam! Ben Kadir Güneş 👋
-Flutter Developer | CTF Player | Mobile Technologies Student
-
----
-
 ### 🛠 Teknolojiler ve Araçlar
 
 - ![Python](https://skillicons.dev/icons?i=py) ![Flutter](https://skillicons.dev/icons?i=flutter) ![Dart](https://skillicons.dev/icons?i=dart) ![C#](https://skillicons.dev/icons?i=cs) ![.NET](https://skillicons.dev/icons?i=dotnet) ![Arduino](https://skillicons.dev/icons?i=arduino) ![C++](https://skillicons.dev/icons?i=cpp) [![My Skills](https://skillicons.dev/icons?i=linux,bash)](https://skillicons.dev)
